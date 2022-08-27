@@ -1,0 +1,11 @@
+#card-area {
+	margin-left: 50px;
+	margin-top: 50px;
+}
+
+#card-area > img {
+	position: absolute;
+	left: auto;
+	right: auto;
+	margin: auto;
+}
